@@ -1,6 +1,8 @@
 # spGini
 Spatial Gini coefficient Use spGini (lctools) With (In) R Software
 
+https://www.youtube.com/watch?v=mMyOrShjt9E
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
